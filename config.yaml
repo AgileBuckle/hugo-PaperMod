@@ -18,12 +18,12 @@ params:
     title: "AgileBuckle"
     imageUrl: "/largelogo.png"
     buttons:
-    - name: "Contact Form"
-      url: "/content/contact.md
+      - name: Contact Form
+        url: "/contact.md"
 
-    socialIcons: # optional
-      - name: "Github"
-        url: "https://github.com/AgileBuckle"
-      - name: "Email"
-        url: "mailto:contact@agilebuckle.com"
+  socialIcons: # optional
+    - name: "Github"
+      url: "https://github.com/AgileBuckle"
+    - name: "Email"
+      url: "mailto:contact@agilebuckle.com"
 
