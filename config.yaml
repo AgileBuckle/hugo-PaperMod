@@ -17,6 +17,9 @@ params:
     enabled: true
     title: "AgileBuckle"
     imageUrl: "/largelogo.png"
+    buttons:
+    - name: "Contact Form"
+      url: "/content/contact.md
 
   socialIcons: # optional
     - name: "Github"
