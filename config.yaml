@@ -21,9 +21,9 @@ params:
     - name: "Contact Form"
       url: "/content/contact.md
 
-  socialIcons: # optional
-    - name: "Github"
-      url: "https://github.com/AgileBuckle"
-    - name: "Email"
-      url: "mailto:contact@agilebuckle.com"
+    socialIcons: # optional
+      - name: "Github"
+        url: "https://github.com/AgileBuckle"
+      - name: "Email"
+        url: "mailto:contact@agilebuckle.com"
 
